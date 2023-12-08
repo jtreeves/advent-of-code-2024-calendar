@@ -3,103 +3,103 @@ import { Title } from '../interfaces'
 const titles: Title[] = [
     {
         day: 1,
-        name: 'Calorie Counting'
+        name: 'Trebuchet?!'
     },
     {
         day: 2,
-        name: 'Rock Paper Scissors'
+        name: 'Cube Conundrum'
     },
     {
         day: 3,
-        name: 'Rucksack Reorganization'
+        name: 'Gear Ratios'
     },
     {
         day: 4,
-        name: 'Camp Cleanup'
+        name: 'Scratchcards'
     },
     {
         day: 5,
-        name: 'Supply Stacks'
+        name: 'If You Give A Seed A Fertilizer'
     },
     {
         day: 6,
-        name: 'Tuning Trouble'
+        name: 'Wait For It'
     },
     {
         day: 7,
-        name: 'No Space Left On Device'
+        name: 'Camel Cards'
     },
     {
         day: 8,
-        name: 'Treetop Tree House'
+        name: 'Exercise 8'
     },
     {
         day: 9,
-        name: 'Rope Bridge'
+        name: 'Exercise 9'
     },
     {
         day: 10,
-        name: 'Cathode-Ray Tube'
+        name: 'Exercise 10'
     },
     {
         day: 11,
-        name: 'Monkey in the Middle'
+        name: 'Exercise 11'
     },
     {
         day: 12,
-        name: 'Hill Climbing Algorithm'
+        name: 'Exercise 12'
     },
     {
         day: 13,
-        name: 'Distress Signal'
+        name: 'Exercise 13'
     },
     {
         day: 14,
-        name: 'Regolith Reservoir'
+        name: 'Exercise 14'
     },
     {
         day: 15,
-        name: 'Beacon Exclusion Zone'
+        name: 'Exercise 15'
     },
     {
         day: 16,
-        name: 'Proboscidea Volcanium'
+        name: 'Exercise 16'
     },
     {
         day: 17,
-        name: 'Pyroclastic Flow'
+        name: 'Exercise 17'
     },
     {
         day: 18,
-        name: 'Boiling Boulders'
+        name: 'Exercise 18'
     },
     {
         day: 19,
-        name: 'Not Enough Minerals'
+        name: 'Exercise 19'
     },
     {
         day: 20,
-        name: 'Grove Positioning System'
+        name: 'Exercise 20'
     },
     {
         day: 21,
-        name: 'Monkey Math'
+        name: 'Exercise 21'
     },
     {
         day: 22,
-        name: 'Monkey Map'
+        name: 'Exercise 22'
     },
     {
         day: 23,
-        name: 'Unstable Diffusion'
+        name: 'Exercise 23'
     },
     {
         day: 24,
-        name: 'Blizzard Basin'
+        name: 'Exercise 24'
     },
     {
         day: 25,
-        name: 'Full of Hot Air'
+        name: 'Exercise 25'
     }
 ]
 
