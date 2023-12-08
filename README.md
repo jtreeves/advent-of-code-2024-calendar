@@ -1,30 +1,47 @@
-# React + TypeScript + Vite
+# Advent of Code: 2023 - Calendar
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+_A website to showcase my solutions to the annual challenge problems_
 
-Currently, two official plugins are available:
+This repo contains a **React** app for a UI for an advent-style calendar. It uses the **Vite** framework. The code is written in **TypeScript**. It pairs with my [solutions repo](https://github.com/jtreeves/advent_of_code_2023_solutions).
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Setup
 
-## Expanding the ESLint configuration
+### Prerequisites
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+-   Node 19 or higher (v19.2.0 ideally): `node -v`
 
-- Configure the top-level `parserOptions` property like this:
+### Installation
 
-```js
-export default {
-  // other rules...
-  parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-  },
-}
-```
+1.  Clone this repository: `git clone https://github.com/jtreeves/advent-of-code-2023-calendar.git`
+2.  Install requirements: `npm i`
 
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+## Running the App
+
+1. Start the app: `npm run dev`
+2. Interact with the app in the browser (previous command should automatically open it): `http://localhost:5173`
+
+## Deployed Site
+
+View a live version of the calendar, deployed via **Netlify**: []()
+
+## Code Analysis
+
+Unlike most coding challenge approaches, this repo is written more like a library, with type annotations for documentation, and it uses a more OOP approach overall.
+
+### General Patterns
+
+-   camelCase used for file names unless the file is for a component, in which case PascalCase is used
+-   strong type annotation is used throughout
+
+### Key Folders and Files
+
+-   files at the root
+    -   `package.json`: establishes key dependencies
+    -   `index.html`: entry point to app
+-   `src` folder
+    -   `main.tsx`: bootstraps the app with React
+    -   `App.tsx`: sets up the app with component hierarchy
+    -   `components` folder: contains files for modular React elements
+    -   `utilities` folder: contains helper functions to simplify other tasks
+    -   `styles` folder: contains CSS files for app
+    -   `data` folder: contains static content for use throughout the site
