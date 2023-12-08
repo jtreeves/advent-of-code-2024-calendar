@@ -22,7 +22,7 @@ This repo contains a **React** app for a UI for an advent-style calendar. It use
 
 ## Deployed Site
 
-View a live version of the calendar, deployed via **Netlify**: []()
+View a live version of the calendar, deployed via **Netlify**: [https://advent-of-code-2023-jtreeves.netlify.app](https://advent-of-code-2023-jtreeves.netlify.app)
 
 ## Code Analysis
 
