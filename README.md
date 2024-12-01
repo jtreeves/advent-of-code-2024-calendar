@@ -1,8 +1,8 @@
-# Advent of Code: 2023 - Calendar
+# Advent of Code: 2024 - Calendar
 
 _A website to showcase my solutions to the annual challenge problems_
 
-This repo contains a **React** app for a UI for an advent-style calendar. It uses the **Vite** framework. The code is written in **TypeScript**. It pairs with my [solutions repo](https://github.com/jtreeves/advent_of_code_2023_solutions).
+This repo contains a **React** app for a UI for an advent-style calendar. It uses the **Vite** framework. The code is written in **TypeScript**. It pairs with my [solutions repo](https://github.com/jtreeves/advent_of_code_2024_solutions).
 
 ## Setup
 
@@ -12,7 +12,7 @@ This repo contains a **React** app for a UI for an advent-style calendar. It use
 
 ### Installation
 
-1.  Clone this repository: `git clone https://github.com/jtreeves/advent-of-code-2023-calendar.git`
+1.  Clone this repository: `git clone https://github.com/jtreeves/advent-of-code-2024-calendar.git`
 2.  Install requirements: `npm i`
 
 ## Running the App
@@ -22,7 +22,7 @@ This repo contains a **React** app for a UI for an advent-style calendar. It use
 
 ## Deployed Site
 
-View a live version of the calendar, deployed via **Netlify**: [https://advent-of-code-2023-jtreeves.netlify.app](https://advent-of-code-2023-jtreeves.netlify.app)
+View a live version of the calendar, deployed via **Netlify**: [https://advent-of-code-2024-jtreeves.netlify.app](https://advent-of-code-2024-jtreeves.netlify.app)
 
 ## Code Analysis
 

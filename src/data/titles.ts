@@ -3,103 +3,103 @@ import { Title } from '../interfaces'
 const titles: Title[] = [
     {
         day: 1,
-        name: 'Trebuchet?!'
+        name: ''
     },
     {
         day: 2,
-        name: 'Cube Conundrum'
+        name: ''
     },
     {
         day: 3,
-        name: 'Gear Ratios'
+        name: ''
     },
     {
         day: 4,
-        name: 'Scratchcards'
+        name: ''
     },
     {
         day: 5,
-        name: 'If You Give A Seed A Fertilizer'
+        name: ''
     },
     {
         day: 6,
-        name: 'Wait For It'
+        name: ''
     },
     {
         day: 7,
-        name: 'Camel Cards'
+        name: ''
     },
     {
         day: 8,
-        name: 'Exercise 8'
+        name: ''
     },
     {
         day: 9,
-        name: 'Exercise 9'
+        name: ''
     },
     {
         day: 10,
-        name: 'Exercise 10'
+        name: ''
     },
     {
         day: 11,
-        name: 'Exercise 11'
+        name: ''
     },
     {
         day: 12,
-        name: 'Exercise 12'
+        name: ''
     },
     {
         day: 13,
-        name: 'Exercise 13'
+        name: ''
     },
     {
         day: 14,
-        name: 'Exercise 14'
+        name: ''
     },
     {
         day: 15,
-        name: 'Exercise 15'
+        name: ''
     },
     {
         day: 16,
-        name: 'Exercise 16'
+        name: ''
     },
     {
         day: 17,
-        name: 'Exercise 17'
+        name: ''
     },
     {
         day: 18,
-        name: 'Exercise 18'
+        name: ''
     },
     {
         day: 19,
-        name: 'Exercise 19'
+        name: ''
     },
     {
         day: 20,
-        name: 'Exercise 20'
+        name: ''
     },
     {
         day: 21,
-        name: 'Exercise 21'
+        name: ''
     },
     {
         day: 22,
-        name: 'Exercise 22'
+        name: ''
     },
     {
         day: 23,
-        name: 'Exercise 23'
+        name: ''
     },
     {
         day: 24,
-        name: 'Exercise 24'
+        name: ''
     },
     {
         day: 25,
-        name: 'Exercise 25'
+        name: ''
     }
 ]
 

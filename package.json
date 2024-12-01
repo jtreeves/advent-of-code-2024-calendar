@@ -1,8 +1,8 @@
 {
-    "name": "advent-of-code-2023-calendar",
+    "name": "advent-of-code-2024-calendar",
     "private": false,
     "version": "0.0.1",
-    "description": "Advent of Code 2023 calendar highlight solutions to challenge problems",
+    "description": "Advent of Code 2024 calendar highlighting solutions to challenge problems",
     "author": "Jackson Reeves",
     "type": "module",
     "license": "MIT",
