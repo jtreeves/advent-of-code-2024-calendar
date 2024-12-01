@@ -3,7 +3,7 @@ import { Title } from '../interfaces'
 const titles: Title[] = [
     {
         day: 1,
-        name: ''
+        name: 'Historian Hysteria'
     },
     {
         day: 2,
